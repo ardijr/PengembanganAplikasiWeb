@@ -22,7 +22,7 @@
 ## Struktur Data
 
 ### User
-Atribut|Tipe Data|Contoh
----|---|---
+
 ID | integer | 30
 username | string | susanto
+password | string | susanti
