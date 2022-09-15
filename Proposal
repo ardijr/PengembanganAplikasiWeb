@@ -26,6 +26,8 @@
 ID | integer | 30
 username | string | susanto
 password | string | susanti
+no telpon | varchar | 081261459220
+
 
 UI/UX WIREFRAME
 
