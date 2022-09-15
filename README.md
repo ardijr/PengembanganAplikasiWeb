@@ -26,3 +26,9 @@
 ID | integer | 30
 username | string | susanto
 password | string | susanti
+
+UI/UX WIREFRAME
+
+![APP](https://user-images.githubusercontent.com/101171711/190312165-f1a4da25-db25-4a78-9569-0c0c3562c360.png)
+
+
