@@ -14,6 +14,14 @@ Hapi Installation
 
 ![image](https://user-images.githubusercontent.com/101171711/208721020-026c6ede-3640-4826-bb32-40e25434e308.png)
 
+ PostgreSQL
+<img width="960" alt="2022-12-26" src="https://user-images.githubusercontent.com/101171711/209554487-47e15a0a-49cd-409d-8a62-946e6f86e063.png">
+
+
+DBeaver installation 
+<img width="960" alt="2022-12-26 (1)" src="https://user-images.githubusercontent.com/101171711/209555120-3e3d7a5a-1e9f-41ce-8f7f-3246cc8c80b5.png">
+
+
 NodeJS & NPM Installation
 
 ![Screenshot (399)](https://user-images.githubusercontent.com/101171711/208721657-c98468f3-1f71-4431-8254-b5c849150bfd.png)
@@ -23,6 +31,10 @@ MobaXterm installation & SSH Connection
 
 Apache Web Server Installation
 ![Screenshot (401)](https://user-images.githubusercontent.com/101171711/208722322-7f7b404e-2ff9-4109-b5e2-226dd6342c26.png)
+
+Cpanel
+![WhatsApp Image 2022-12-26 at 16 54 39](https://user-images.githubusercontent.com/101171711/209555244-9a0919ad-dbb6-4ecd-af65-bda6b4a0cc74.jpeg)
+
 
 HTML Responsive Layout with Media Query & Flexbox
 ![Screenshot (403)](https://user-images.githubusercontent.com/101171711/208723284-1d1f1e1d-e045-4145-9d4f-14ccce5b1141.png)
