@@ -41,6 +41,15 @@ HTTP GET & POST using Form Action and Fetch API
 Web Service 
 ![image](https://user-images.githubusercontent.com/101171711/208724091-069f9eb1-e81b-45e4-b0a1-086b14bc9c0a.png)
 
+Deploy PHP Project to Cpanel
+![WhatsApp Image 2022-12-26 at 16 54 39](https://user-images.githubusercontent.com/101171711/209553661-f1cd151f-221f-4d4d-96ef-93b560735633.jpeg)
+
+
+HTML Responsive Layout with Bootstrap
+![Screenshot (414)](https://user-images.githubusercontent.com/101171711/209553954-8aeac55d-bf87-4466-82c7-a7ddc7034cee.png)
+
+
+
 Dynamic Web Page 
 ![Screenshot (405)](https://user-images.githubusercontent.com/101171711/208724900-52831b0e-0a91-4aea-a17b-839a279d6496.png)
 ![Screenshot (406)](https://user-images.githubusercontent.com/101171711/208724915-a3cf2dc2-b8fa-4677-8283-fa488c31065c.png)
