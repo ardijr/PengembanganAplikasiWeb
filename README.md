@@ -68,7 +68,9 @@ Dynamic Web Page
 
 Single Page APP With React & React-router
 
+
 News Site using Wordpress
+
 ![wordpress](https://user-images.githubusercontent.com/101171711/209555896-693e0af0-7094-4559-803a-ec35387f4e58.jpg)
 
 
